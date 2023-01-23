@@ -1,0 +1,32 @@
+{
+	"name": "MENU INICIO",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 408542479468592,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "comenzar"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 811898772733445,
+					"parameters": {
+						"layout": "nivel 1"
+					}
+				}
+			],
+			"sid": 443769605826252
+		}
+	],
+	"sid": 113798856615541
+}

@@ -1,0 +1,30 @@
+{
+	"name": "NIVEL 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-key-pressed",
+					"objectClass": "Teclado",
+					"sid": 482004596382969,
+					"parameters": {
+						"key": 27
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 763998976065492,
+					"parameters": {
+						"layout": "MENU INICIO"
+					}
+				}
+			],
+			"sid": 506836498647332
+		}
+	],
+	"sid": 529436225507863
+}
