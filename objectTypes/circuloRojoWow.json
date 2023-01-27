@@ -1,0 +1,49 @@
+{
+	"name": "circuloRojoWow",
+	"plugin-id": "Sprite",
+	"sid": 552068123683654,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 592,
+						"height": 600,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3165259,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 1331,
+						"height": 1882,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9744339,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 998831624757687,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

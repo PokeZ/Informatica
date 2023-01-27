@@ -24,6 +24,136 @@
 				}
 			],
 			"sid": 506836498647332
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 131802398953633,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "ram"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 966729552189827,
+					"parameters": {
+						"layout": "nivel 2"
+					}
+				}
+			],
+			"sid": 740007972201787
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 904213692481692,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "tarjetaGrafica"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "noMonopoly",
+					"sid": 143981866968656,
+					"parameters": {
+						"visibility": "toggle"
+					}
+				}
+			],
+			"sid": 132105679804858
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 674310938459180,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "FUENTEDEALIMENTACION"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "noMonopoly",
+					"sid": 640797356643458,
+					"parameters": {
+						"visibility": "toggle"
+					}
+				}
+			],
+			"sid": 718480738953275
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 958085216883234,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "memoriaSolida"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "noMonopoly",
+					"sid": 523216846807853,
+					"parameters": {
+						"visibility": "toggle"
+					}
+				}
+			],
+			"sid": 623270169270053
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 904913181089965,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "microprocesador"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "noMonopoly",
+					"sid": 424952296769092,
+					"parameters": {
+						"visibility": "toggle"
+					}
+				}
+			],
+			"sid": 641579354348856
 		}
 	],
 	"sid": 529436225507863

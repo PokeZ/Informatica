@@ -50,7 +50,17 @@
 			"Texto",
 			"Sprite",
 			"Texto2",
-			"comenzar"
+			"comenzar",
+			"PLACABASE",
+			"tarjetaGrafica",
+			"ram",
+			"microprocesador",
+			"memoriaSolida",
+			"FUENTEDEALIMENTACION",
+			"circuloRojoWow",
+			"flechaRojaWow",
+			"Texto3",
+			"noMonopoly"
 		],
 		"subfolders": []
 	},
@@ -62,15 +72,17 @@
 	},
 	"layouts": {
 		"items": [
+			"MENU INICIO",
 			"nivel 1",
-			"MENU INICIO"
+			"nivel 2"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
 			"NIVEL 1",
-			"MENU INICIO"
+			"MENU INICIO",
+			"NIVEL 2"
 		],
 		"subfolders": []
 	},
