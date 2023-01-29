@@ -1,5 +1,37 @@
 {
 	"name": "NIVEL 2",
-	"events": [],
+	"events": [
+		{
+			"eventType": "variable",
+			"name": "Aciertos",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 254628697359877
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-tick",
+					"objectClass": "System",
+					"sid": 994423407611296
+				}
+			],
+			"actions": [
+				{
+					"id": "set-text",
+					"objectClass": "Aciertos",
+					"sid": 397538507333853,
+					"parameters": {
+						"text": "Aciertos"
+					}
+				}
+			],
+			"sid": 792863602266316
+		}
+	],
 	"sid": 439620941328586
 }
