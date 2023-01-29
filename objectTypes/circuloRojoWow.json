@@ -1,7 +1,7 @@
 {
 	"name": "circuloRojoWow",
 	"plugin-id": "Sprite",
-	"sid": 552068123683654,
+	"sid": 382113730157029,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -18,24 +18,12 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 3165259,
-						"useCollisionPoly": true,
-						"duration": 1
-					},
-					{
-						"width": 1331,
-						"height": 1882,
-						"originX": 0.5,
-						"originY": 0.5,
-						"originalSource": "",
-						"exportFormat": "lossless",
-						"exportQuality": 0.8,
-						"imageSpriteId": 9744339,
+						"imageSpriteId": 3418895,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 998831624757687,
+				"sid": 676249914257402,
 				"name": "Default",
 				"isLooping": false,
 				"isPingPong": false,

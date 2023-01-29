@@ -64,7 +64,6 @@
 			"microprocesador",
 			"memoriaSolida",
 			"FUENTEDEALIMENTACION",
-			"circuloRojoWow",
 			"flechaRojaWow",
 			"Texto3",
 			"noMonopoly",
@@ -75,7 +74,8 @@
 			"ramt",
 			"fuentedealimentaciont",
 			"Texto4",
-			"Aciertos"
+			"Aciertos",
+			"circuloRojoWow"
 		],
 		"subfolders": []
 	},
