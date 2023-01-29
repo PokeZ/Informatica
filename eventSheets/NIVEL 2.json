@@ -50,7 +50,25 @@
 					"sid": 451759963894095
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 294208537923132,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "fuentedealimentaciont",
+					"sid": 876475863975271,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 726956964249739
 		},
 		{
@@ -71,7 +89,25 @@
 					"sid": 960117037389067
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 666340400066044,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "memoriat",
+					"sid": 143620497086828,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 387126772429426
 		},
 		{
@@ -92,7 +128,25 @@
 					"sid": 208752133743623
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 458172711196984,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "microprocesadort",
+					"sid": 479534475233849,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 631317065141111
 		},
 		{
@@ -113,7 +167,25 @@
 					"sid": 284793550881812
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 954123068505915,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "ramt",
+					"sid": 756629406752751,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 746112832575985
 		},
 		{
@@ -134,7 +206,25 @@
 					"sid": 855789400957982
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 974591499328220,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "placabaset",
+					"sid": 563477071546659,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 677212710812671
 		},
 		{
@@ -155,7 +245,25 @@
 					"sid": 405005874891897
 				}
 			],
-			"actions": [],
+			"actions": [
+				{
+					"id": "add-to-eventvar",
+					"objectClass": "System",
+					"sid": 610746160328853,
+					"parameters": {
+						"variable": "Aciertos",
+						"value": "1"
+					}
+				},
+				{
+					"id": "set-enabled",
+					"objectClass": "tarjetagraficat",
+					"sid": 166565241695473,
+					"parameters": {
+						"mode": "disabled"
+					}
+				}
+			],
 			"sid": 887157542618978
 		}
 	],
