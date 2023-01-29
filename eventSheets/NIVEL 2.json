@@ -265,6 +265,31 @@
 				}
 			],
 			"sid": 887157542618978
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "Aciertos",
+					"sid": 681907712208084,
+					"parameters": {
+						"text-to-compare": "\"6\"",
+						"case-sensitivity": "ignore-case"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 215128004833504,
+					"parameters": {
+						"layout": "final"
+					}
+				}
+			],
+			"sid": 113355994295418
 		}
 	],
 	"sid": 439620941328586

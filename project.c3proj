@@ -77,7 +77,10 @@
 			"Aciertos",
 			"circuloRojoWow",
 			"Texto5",
-			"Sprite2"
+			"Sprite2",
+			"EntradaDeTexto",
+			"Texto6",
+			"Texto7"
 		],
 		"subfolders": []
 	},
