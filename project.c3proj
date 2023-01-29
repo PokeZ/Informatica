@@ -75,7 +75,9 @@
 			"fuentedealimentaciont",
 			"Texto4",
 			"Aciertos",
-			"circuloRojoWow"
+			"circuloRojoWow",
+			"Texto5",
+			"Sprite2"
 		],
 		"subfolders": []
 	},
@@ -89,7 +91,8 @@
 		"items": [
 			"MENU INICIO",
 			"nivel 1",
-			"nivel 2"
+			"nivel 2",
+			"final"
 		],
 		"subfolders": []
 	},
@@ -97,7 +100,8 @@
 		"items": [
 			"NIVEL 1",
 			"MENU INICIO",
-			"NIVEL 2"
+			"NIVEL 2",
+			"Hoja de eventos 1"
 		],
 		"subfolders": []
 	},
