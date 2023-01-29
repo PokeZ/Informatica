@@ -31,6 +31,132 @@
 				}
 			],
 			"sid": 792863602266316
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "fuentedealimentaciont",
+					"sid": 435024145270847,
+					"parameters": {
+						"text": "\"fuente de alimentacion\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 451759963894095
+				}
+			],
+			"actions": [],
+			"sid": 726956964249739
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "memoriat",
+					"sid": 587856258807142,
+					"parameters": {
+						"text": "\"memoria\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 960117037389067
+				}
+			],
+			"actions": [],
+			"sid": 387126772429426
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "microprocesadort",
+					"sid": 812953622929089,
+					"parameters": {
+						"text": "\"microprocesador\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 208752133743623
+				}
+			],
+			"actions": [],
+			"sid": 631317065141111
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "ramt",
+					"sid": 766514077019677,
+					"parameters": {
+						"text": "\"ram\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 284793550881812
+				}
+			],
+			"actions": [],
+			"sid": 746112832575985
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "placabaset",
+					"sid": 619327773839386,
+					"parameters": {
+						"text": "\"placa base\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 855789400957982
+				}
+			],
+			"actions": [],
+			"sid": 677212710812671
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "tarjetagraficat",
+					"sid": 293931161194510,
+					"parameters": {
+						"text": "\"tarjeta grafica\"",
+						"case": "case-insensitive"
+					}
+				},
+				{
+					"id": "trigger-once-while-true",
+					"objectClass": "System",
+					"sid": 405005874891897
+				}
+			],
+			"actions": [],
+			"sid": 887157542618978
 		}
 	],
 	"sid": 439620941328586
