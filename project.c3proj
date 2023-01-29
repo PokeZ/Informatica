@@ -35,6 +35,13 @@
 			"bundled": false
 		},
 		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Entrada de texto",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
 			"type": "behavior",
 			"id": "EightDir",
 			"name": "8 Direcciones",
@@ -60,7 +67,13 @@
 			"circuloRojoWow",
 			"flechaRojaWow",
 			"Texto3",
-			"noMonopoly"
+			"noMonopoly",
+			"memoriat",
+			"placabaset",
+			"tarjetagraficat",
+			"microprocesadort",
+			"ramt",
+			"fuentedealimentaciont"
 		],
 		"subfolders": []
 	},
